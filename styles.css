@@ -1,0 +1,87 @@
+body {
+  background-color: brown;
+  font-family: Verdana;
+  padding: 20px;
+}
+
+.menu {
+  width: 80%;
+  max-width: 600px;
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  background-color: burlywood;
+}
+
+h1, h2 {
+  font-family: Impact;
+}
+
+h1 {
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: -5px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+.slogan {
+  font-style: italic;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -20px;
+}
+
+hr {
+  height: 2px;
+  background-color: brown;
+  border-color: brown;
+}
+
+.item p {
+  display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+
+.beverage, .snack {
+  text-align: left;
+  width: 75%;
+}
+
+.price {
+  text-align: right;
+  width: 25%;
+}
+
+.bottom-divider {
+  margin-top: 25px;
+}
+
+footer {
+  font-size: 14px;
+}
+
+a {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: brown;
+}
+
+a:active {
+  color: brown;
+}
